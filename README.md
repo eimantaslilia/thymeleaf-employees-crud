@@ -2,7 +2,8 @@
 
 This is a web app for being able to do CRUD operations on employees using Thymeleaf templates.
 
-Tools used:  
+Tools used:
+
 Spring Boot, Spring MVC, Spring DevTools, Spring Data JPA, Thymeleaf, MySQL
 
 Learned more about:
